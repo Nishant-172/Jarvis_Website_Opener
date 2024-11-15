@@ -1,3 +1,4 @@
+#the following code is for a ai assitant named jarvis that helps in open website
 import webbrowser  # Website open karne ke liye webbrowser library import karte hain
 import pyttsx3     # Text-to-speech functionality ke liye pyttsx3 library import karte hain
 
@@ -24,6 +25,6 @@ def open_website():
 
 # Main program ko run karte hain
 if __name__ == "__main__":#important to write acche devloper banane ke liye
-    speak("Hello Boss, this is Jarvis")  # Initial greeting message
+    speak("Hello Boss, this is Fauzan Present for the work")  # Initial greeting message
     print("Hello Boss, this is Jarvis!")
     open_website()  # Open website function ko call karte hain
